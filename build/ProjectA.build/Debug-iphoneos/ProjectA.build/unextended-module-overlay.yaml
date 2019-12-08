@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/radha/Library/Developer/Xcode/DerivedData/ProjectA-hacyfabdqnfopifbhkvblcjnghpq/Build/Products/Debug-iphoneos/ProjectA.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/radha/Desktop/yeswanth/UmbrellaFramework/ProjectA/ProjectA/build/ProjectA.build/Debug-iphoneos/ProjectA.build/unextended-module.modulemap",
+    }]
+  }]
+}

@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/radha/Library/Developer/Xcode/DerivedData/ProjectA-hacyfabdqnfopifbhkvblcjnghpq/Build/Products/Debug-iphoneos/ProjectA.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ProjectA-Swift.h",
+          'external-contents': "/Users/radha/Library/Developer/Xcode/DerivedData/ProjectA-hacyfabdqnfopifbhkvblcjnghpq/Build/Products/Debug-iphoneos/ProjectA.framework/Headers/ProjectA-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ProjectA.h",
+          'external-contents': "/Users/radha/Desktop/yeswanth/UmbrellaFramework/ProjectA/ProjectA/ProjectA/ProjectA.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/radha/Library/Developer/Xcode/DerivedData/ProjectA-hacyfabdqnfopifbhkvblcjnghpq/Build/Products/Debug-iphoneos/ProjectA.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/radha/Desktop/yeswanth/UmbrellaFramework/ProjectA/ProjectA/build/ProjectA.build/Debug-iphoneos/ProjectA.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
